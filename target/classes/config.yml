@@ -1,0 +1,14 @@
+# This is the configuration file for the chat monitor system.
+# The system will read this file when it starts up.
+# You can change the values in this file while the system is running.
+# Add as many corrections and banned words as you want.
+# Created by Michael H on 2023-09-01
+
+auto_correct:
+  lol: laughing out loud
+  gr8: great
+
+
+banned_words:
+  - swear1
+  - swear2
